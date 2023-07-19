@@ -1,2 +1,2 @@
 # Hyperion
-<button>Discord</button>
+<md-button>Discord</md-button>
