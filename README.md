@@ -1,2 +1,2 @@
 # Hyperion
-[Discord (Not Avalible)]
+[Discord]
