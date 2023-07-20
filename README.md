@@ -1,3 +1,3 @@
 # Hyperion
 
-[Default Button Text](#link){: .btn}
+<a href="#" class="btn btn--success">Success Button</a>
